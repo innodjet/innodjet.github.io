@@ -618,7 +618,7 @@ section.team-agileinfo .view {
 	overflow: hidden;
 	position: relative;
 	text-align: center;
-	/*background: rgba(58, 161, 192, 0.38);*/
+	background: rgba(58, 161, 192, 0.38);*
     cursor: default;
 }
 section.team-agileinfo .view .mask1, section.team-agileinfo .view .mask2, section.team-agileinfo .view .mask3, section.team-agileinfo .view .mask4, section.team-agileinfo .view .content {
